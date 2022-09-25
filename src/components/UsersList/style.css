@@ -1,0 +1,20 @@
+.search-inputs {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    max-width: 809px;
+    margin: 0 auto;
+}
+
+.search-inputs input {
+    padding: 5px;
+}
+
+.users-table {
+    width: 100%;
+    padding: 20px
+}
+
+table.users-table tr th, table.users-table tr td {
+    padding: 10px;
+}
